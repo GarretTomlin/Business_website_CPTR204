@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lint": "echo \"Error: no test specified\" && exit 1"
-  },
+    "build": " tailwindcss -i ./src/style/input.css -o ./src/dist/output.css",
+    "watch": " tailwindcss -i ./src/style/input.css -o ./src/dist/output.css --watch"
+    },
   "keywords": [],
   "author": "",
   "license": "ISC",
