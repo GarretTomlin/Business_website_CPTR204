@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "build": " tailwindcss -i ./src/style/input.css -o ./src/dist/output.css",
-    "watch": " tailwindcss -i ./src/style/input.css -o ./src/dist/output.css --watch"
-    },
+    "watch": " tailwindcss -i ./src/style/input.css -o ./src/dist/output.css --watch",
+    "build-prod": "tailwindcss -o ./src/dist/build.css --minify"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",

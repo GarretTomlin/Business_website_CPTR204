@@ -1,7 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
-    './src/templates/**/*.{html}',
+    './src/templates/**/*.html',
     './*.html',
   ],
   theme: {
@@ -13,6 +13,8 @@ module.exports = {
     },
     extend: {},
   },
-  // eslint-disable-next-line global-require
-  plugins: [require('daisyui')],
+  // eslint-disable-next-line global-require,
+  plugins: [require('daisyui'),
+  ],
+
 };
