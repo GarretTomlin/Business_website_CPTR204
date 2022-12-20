@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="113.689" height="77.858" viewBox="0 0 113.689 77.858">
+    <defs>
+        <style>
+            .cls-1{fill:#ffdb18}.cls-2,.cls-6,.cls-9{fill:none}.cls-3,.cls-7{fill:#fff}.cls-3,.cls-6,.cls-8{stroke:#002b5b}.cls-3,.cls-6,.cls-8,.cls-9{stroke-miterlimit:10;stroke-width:2px}.cls-4{fill:#e5e9ee}.cls-5{fill:#002b5b}.cls-6,.cls-9{stroke-linecap:round}.cls-6{stroke-linejoin:round}.cls-8{fill:#2ab6f3}.cls-9{stroke:#fff}.cls-10{stroke:none}
+        </style>
+    </defs>
+    <g id="Group_10268" data-name="Group 10268" transform="translate(-541.114 -984)">
+        <path id="Path_23" d="M4.439 12.3C-8.712 39.42 7.846 71.4 47.651 71.4s52.682-22.894 40.783-42.88S17.59-14.826 4.439 12.3z" class="cls-1" data-name="Path 23" transform="translate(541.114 989.979)"/>
+        <g id="Tax_Certificate" data-name="Tax Certificate" transform="translate(576.945 984)">
+            <path id="Rectangle_78" d="M0 0h77.375v77.375H0z" class="cls-2" data-name="Rectangle 78"/>
+            <rect id="Rectangle_86" width="56.894" height="63.721" class="cls-3" data-name="Rectangle 86" rx="6" transform="translate(5.31 5.31)"/>
+            <path id="Rectangle_95" d="M0 0h41.275v12.137H0z" class="cls-4" data-name="Rectangle 95" transform="translate(13.343 13.654)"/>
+            <path id="Rectangle_95_Copy" d="M0 0h40.205v1.517H0z" class="cls-5" data-name="Rectangle 95 Copy" transform="translate(13.654 37.171)"/>
+            <path id="Rectangle_95_Copy-2" d="M0 0h40.205v1.517H0z" class="cls-5" data-name="Rectangle 95 Copy" transform="translate(13.654 49.308)"/>
+            <path id="Rectangle_95_Copy-3" d="M0 0h40.205v1.517H0z" class="cls-5" data-name="Rectangle 95 Copy" transform="translate(13.654 43.239)"/>
+            <path id="Rectangle_95_Copy-4" d="M0 0h31.068v1.517H0z" class="cls-5" data-name="Rectangle 95 Copy" transform="translate(13.654 55.377)"/>
+            <path id="Stroke_3" d="M0 3.23h6.827V0H0z" class="cls-6" data-name="Stroke 3" transform="translate(14.204 28.755)"/>
+            <path id="Stroke_3-2" d="M0 3.23h6.827V0H0z" class="cls-6" data-name="Stroke 3" transform="translate(30.204 28.755)"/>
+            <g id="Group_10123" data-name="Group 10123" transform="translate(18.429 32.601)">
+                <path id="Rectangle_95_Copy-5" d="M0 0h23.581v1.517H0z" class="cls-7" data-name="Rectangle 95 Copy" transform="rotate(90 -.42 1.936)"/>
+                <path id="Rectangle_95_Copy-6" d="M0 0h23.937v1.517H0z" class="cls-7" data-name="Rectangle 95 Copy" transform="rotate(90 2.759 4.759)"/>
+                <path id="Rectangle_95_Copy-7" d="M0 0h23.581v1.517H0z" class="cls-7" data-name="Rectangle 95 Copy" transform="rotate(90 5.581 7.937)"/>
+                <path id="Rectangle_95_Copy-8" d="M0 0h23.581v1.517H0z" class="cls-7" data-name="Rectangle 95 Copy" transform="rotate(90 8.582 10.938)"/>
+                <path id="Rectangle_95_Copy-9" d="M0 0h25.068v1.517H0z" class="cls-7" data-name="Rectangle 95 Copy" transform="rotate(90 12.758 12.759)"/>
+                <path id="Rectangle_95_Copy-10" d="M0 0h23.068v1.517H0z" class="cls-7" data-name="Rectangle 95 Copy" transform="rotate(90 14.758 16.759)"/>
+            </g>
+            <g id="Oval_9" class="cls-8" data-name="Oval 9" transform="translate(44.756 44.756)">
+                <circle cx="15.551" cy="15.551" r="15.551" class="cls-10"/>
+                <circle cx="15.551" cy="15.551" r="16.551" class="cls-2"/>
+            </g>
+            <path id="Stroke_3-3" d="M0 3.23h6.827V0H0z" class="cls-6" data-name="Stroke 3" transform="translate(47.204 28.755)"/>
+            <g id="Group_10122" data-name="Group 10122" transform="translate(56.654 54.655)">
+                <path id="Rectangle_12" d="M-2.414 1.517A1.517 1.517 0 0 0-3.931 0h-4.552A1.517 1.517 0 0 0-10 1.517v.759a1.517 1.517 0 0 0 1.517 1.517h4.551" class="cls-9" data-name="Rectangle 12" transform="translate(10 2.276)"/>
+                <path id="Rectangle_12_Copy" d="M-10 2.276a1.517 1.517 0 0 0 1.517 1.517h4.551a1.517 1.517 0 0 0 1.518-1.517v-.759A1.517 1.517 0 0 0-3.931 0h-4.552" class="cls-9" data-name="Rectangle 12 Copy" transform="translate(10 6.069)"/>
+                <rect id="Rectangle_14" width="1.517" height="12.137" class="cls-7" data-name="Rectangle 14" rx=".759" transform="translate(3.034)"/>
+            </g>
+        </g>
+    </g>
+</svg>

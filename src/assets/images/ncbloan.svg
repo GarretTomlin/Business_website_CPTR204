@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="101.767" height="77.858" viewBox="0 0 101.767 77.858">
+    <defs>
+        <style>
+            .cls-1{fill:#ffdb18}.cls-2,.cls-6,.cls-8{fill:none}.cls-3{fill:#002b5b}.cls-4{fill:#fff}.cls-4,.cls-5,.cls-6,.cls-7{stroke:#002b5b}.cls-4,.cls-5,.cls-6,.cls-7,.cls-8{stroke-miterlimit:10;stroke-width:2px}.cls-5{fill:#e5e9ee}.cls-7{fill:#2ab6f3}.cls-8{stroke:#fff;stroke-linecap:round;stroke-linejoin:round}.cls-9{stroke:none}
+        </style>
+    </defs>
+    <g id="Group_10270" data-name="Group 10270" transform="translate(-873.098 -984)">
+        <path id="Path_22" d="M89.225-68.436C102.461-99.924 75.989-110 40.261-110S-8.023-81.118 5.033-56.475s70.956 19.527 84.192-11.961z" class="cls-1" data-name="Path 22" transform="translate(873.098 1101.138)"/>
+        <g id="Group_72" data-name="Group 72" transform="translate(897.006 984)">
+            <path id="Rectangle_78" d="M0 0h77.375v77.375H0z" class="cls-2" data-name="Rectangle 78"/>
+            <ellipse id="Oval_23" cx="9.862" cy="6.827" class="cls-3" data-name="Oval 23" rx="9.862" ry="6.827" transform="translate(23.516 1.517)"/>
+            <path id="Combined_Shape_Copy_2" d="M33 24.275a77.957 77.957 0 0 1-33-7.282l.412-.811A21.24 21.24 0 0 1 13.689 5.335L33 0l19.308 5.335a21.24 21.24 0 0 1 13.276 10.847l.412.811A77.957 77.957 0 0 1 33 24.275z" class="cls-4" data-name="Combined Shape Copy 2" transform="translate(.759 44.756)"/>
+            <path id="Rectangle_97_Copy" d="M0 0h15.93v9.472a6.069 6.069 0 0 1-3.908 5.671l-4.057 1.546-4.057-1.546A6.069 6.069 0 0 1 0 9.472z" class="cls-5" data-name="Rectangle 97 Copy" transform="translate(25.792 37.929)"/>
+            <path id="Combined_Shape" d="M15.4 39.446a6.068 6.068 0 0 1-4.2-1.693L6.584 33.32a6.068 6.068 0 0 1-1.847-3.92l-.256-3.431c-.294.081-.481.232-.481.525a4.242 4.242 0 0 1-4-4.447c0-2.46.339-4.447 2.549-4.447a2.746 2.746 0 0 1 1.34.424l-.258-3.462a11.95 11.95 0 0 1-.278-2.57q0-.4.027-.8l-.027-.358h.056a12.08 12.08 0 0 1 24.03 0h.056l-.027.357q.026.4.027.8a11.958 11.958 0 0 1-.279 2.573l-.233 3.117a4.157 4.157 0 0 1 .817-.081c2.209 0 2.548 1.992 2.548 4.448a4.242 4.242 0 0 1-4 4.447.057.057 0 0 0-.013-.041l-.22 2.947a6.07 6.07 0 0 1-1.846 3.924l-4.612 4.433a6.07 6.07 0 0 1-4.206 1.693z" class="cls-5" data-name="Combined Shape" transform="translate(18.206 8.344)"/>
+            <path id="Path_32" d="M0 0a26.964 26.964 0 0 0 4.172.759A26.964 26.964 0 0 0 8.344 0" class="cls-4" data-name="Path 32" transform="translate(29.585 39.446)"/>
+            <path id="Oval_21" d="M0 0c0 1.257 1.515 2.276 2.655 2.276S5.31 1.257 5.31 0" class="cls-6" data-name="Oval 21" transform="translate(31.102 34.895)"/>
+            <path id="Oval_21-2" d="M0-.483C0-1.321 1.082-2 1.9-2s1.9.679 1.9 1.517" class="cls-6" data-name="Oval 21" transform="translate(31.86 31.585)"/>
+            <g id="Oval_9" class="cls-7" data-name="Oval 9" transform="translate(44.756 44.756)">
+                <circle cx="15.551" cy="15.551" r="15.551" class="cls-9"/>
+                <circle cx="15.551" cy="15.551" r="16.551" class="cls-2"/>
+            </g>
+            <path id="Stroke_1" d="M0 10.62h3.793V0H0z" class="cls-8" data-name="Stroke 1" transform="translate(51.584 57.652)"/>
+            <path id="Stroke_3" d="M0 6.069h3.793V0H0z" class="cls-8" data-name="Stroke 3" transform="translate(58.411 62.204)"/>
+            <path id="Stroke_4" d="M0 3.034h3.793V0H0z" class="cls-8" data-name="Stroke 4" transform="translate(64.48 65.238)"/>
+            <path id="Stroke_5" d="M7.586 3.793A3.793 3.793 0 1 1 3.793 0a3.793 3.793 0 0 1 3.793 3.793z" class="cls-8" data-name="Stroke 5" transform="translate(59.169 50.825)"/>
+            <path id="Stroke_6" d="M0 0l3.793 3.793" class="cls-8" data-name="Stroke 6" transform="translate(65.238 58.411)"/>
+            <path id="Path_37" d="M1.418 19.723c0-6.188 10.33-4.254 11.478-8.508 1.148 4.254 11.478 2.707 11.478 8.508C24.374 19.723 31.739 0 12.9 0S1.418 19.723 1.418 19.723z" class="cls-3" data-name="Path 37" transform="translate(20.482 6.827)"/>
+            <path id="Rectangle_98" d="M0 0h3.186a3.641 3.641 0 0 1 3.641 3.641.91.91 0 0 1-.91.91H.91a.91.91 0 0 1-.91-.91V0z" class="cls-4" data-name="Rectangle 98" transform="translate(25.033 28.068)"/>
+            <circle id="Oval_20" cx="1.138" cy="1.138" r="1.138" class="cls-3" data-name="Oval 20" transform="translate(27.309 28.826)"/>
+            <path id="Rectangle_98_Copy" d="M3.641 0h3.186v3.641a.91.91 0 0 1-.91.91H.91a.91.91 0 0 1-.91-.91A3.641 3.641 0 0 1 3.641 0z" class="cls-4" data-name="Rectangle 98 Copy" transform="translate(35.653 28.068)"/>
+            <circle id="Oval_20_Copy" cx="1.138" cy="1.138" r="1.138" class="cls-3" data-name="Oval 20 Copy" transform="translate(37.929 28.826)"/>
+            <path id="Path_38" d="M0 2.276L2.276 0" class="cls-6" data-name="Path 38" transform="translate(42.481 26.55)"/>
+            <path id="Path_39" d="M2.276 1.517L0 0" class="cls-6" data-name="Path 39" transform="translate(22.757 27.309)"/>
+            <circle id="Oval_27" cx="1.138" cy="1.138" r="1.138" class="cls-3" data-name="Oval 27" transform="translate(32.619 59.928)"/>
+            <circle id="Oval_27_Copy" cx="1.138" cy="1.138" r="1.138" class="cls-3" data-name="Oval 27 Copy" transform="translate(32.619 63.721)"/>
+        </g>
+    </g>
+</svg>

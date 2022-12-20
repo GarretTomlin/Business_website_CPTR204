@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="107.324" height="77.858" viewBox="0 0 107.324 77.858">
+    <defs>
+        <style>
+            .cls-1{fill:#ffdb18}.cls-2,.cls-5,.cls-9{fill:none}.cls-3,.cls-7{fill:#e5e9ee}.cls-3,.cls-4,.cls-5,.cls-8{stroke:#002b5b}.cls-3,.cls-4,.cls-5,.cls-8,.cls-9{stroke-miterlimit:10;stroke-width:2px}.cls-4{fill:#fff}.cls-5,.cls-9{stroke-linecap:round}.cls-6{fill:#002b5b}.cls-8{fill:#2ab6f3}.cls-9{stroke:#fff;stroke-linejoin:round}.cls-10{stroke:none}
+        </style>
+    </defs>
+    <g id="Group_10269" data-name="Group 10269" transform="translate(-208.372 -984)">
+        <path id="Path_14" d="M5.064 55.472C21.72 78.1 94.647 72.747 92.65 37.631S56.988-4 36.732 1.949-11.593 32.847 5.064 55.472z" class="cls-1" data-name="Path 14" transform="translate(208.372 991.138)"/>
+        <g id="Tax_Certificate" data-name="Tax Certificate" transform="translate(237.838 984)">
+            <path id="Rectangle_78" d="M0 0h77.375v77.375H0z" class="cls-2" data-name="Rectangle 78"/>
+            <rect id="Rectangle_86" width="55.377" height="64.48" class="cls-3" data-name="Rectangle 86" rx="6" transform="translate(.759 9.103)"/>
+            <rect id="Rectangle_86-2" width="56.894" height="63.721" class="cls-4" data-name="Rectangle 86" rx="6" transform="translate(5.31 5.31)"/>
+            <path id="Rectangle_12" d="M-2.414 1.517A1.517 1.517 0 0 0-3.931 0h-4.552A1.517 1.517 0 0 0-10 1.517v.759a1.517 1.517 0 0 0 1.517 1.517h4.551" class="cls-5" data-name="Rectangle 12" transform="translate(23.654 15.93)"/>
+            <path id="Rectangle_12_Copy" d="M-10 2.276a1.517 1.517 0 0 0 1.517 1.517h4.551a1.517 1.517 0 0 0 1.518-1.517v-.759A1.517 1.517 0 0 0-3.931 0h-4.552" class="cls-5" data-name="Rectangle 12 Copy" transform="translate(23.654 19.723)"/>
+            <rect id="Rectangle_14" width="1.517" height="12.137" class="cls-6" data-name="Rectangle 14" rx=".759" transform="translate(16.689 13.654)"/>
+            <path id="Rectangle_95" d="M0 0h24.275v12.137H0z" class="cls-7" data-name="Rectangle 95" transform="translate(30.343 13.654)"/>
+            <path id="Rectangle_95_Copy" d="M0 0h40.205v1.517H0z" class="cls-6" data-name="Rectangle 95 Copy" transform="translate(13.654 31.102)"/>
+            <path id="Rectangle_95_Copy-2" d="M0 0h40.205v1.517H0z" class="cls-6" data-name="Rectangle 95 Copy" transform="translate(13.654 37.171)"/>
+            <path id="Rectangle_95_Copy-3" d="M0 0h40.205v1.517H0z" class="cls-6" data-name="Rectangle 95 Copy" transform="translate(13.654 49.308)"/>
+            <path id="Rectangle_95_Copy-4" d="M0 0h40.205v1.517H0z" class="cls-6" data-name="Rectangle 95 Copy" transform="translate(13.654 43.239)"/>
+            <path id="Rectangle_95_Copy-5" d="M0 0h28.068v1.517H0z" class="cls-6" data-name="Rectangle 95 Copy" transform="translate(13.654 55.377)"/>
+            <g id="Oval_9" class="cls-8" data-name="Oval 9" transform="translate(44.756 44.756)">
+                <circle cx="15.551" cy="15.551" r="15.551" class="cls-10"/>
+                <circle cx="15.551" cy="15.551" r="16.551" class="cls-2"/>
+            </g>
+            <path id="Stroke_1" d="M0 2.276h6.827V0H0z" class="cls-9" data-name="Stroke 1" transform="translate(62.204 64.48)"/>
+            <path id="Stroke_3" d="M0 2.276h6.827V0H0z" class="cls-9" data-name="Stroke 3" transform="translate(62.204 66.755)"/>
+            <path id="Stroke_4" d="M0 2.276h6.827V0H0z" class="cls-9" data-name="Stroke 4" transform="translate(62.204 62.204)"/>
+            <path id="Stroke_5" d="M6.128 12.137H5c-3.377 0-5-1.626-5-5S4.573 0 4.573 0h5.336A19.42 19.42 0 0 1 12.9 3.172" class="cls-9" data-name="Stroke 5" transform="translate(52.342 56.135)"/>
+            <path id="Stroke_6" d="M1.534 4.551S-.933.93.39.059C.87-.258 1.68 1.5 2.238 1.5S2.935.008 3.807.008c.919 0 .965.731 1.522.731C6.443.74 6.415 0 7.53 0s1.27 2.662-.72 4.551" class="cls-9" data-name="Stroke 6" transform="translate(55.377 51.584)"/>
+        </g>
+    </g>
+</svg>

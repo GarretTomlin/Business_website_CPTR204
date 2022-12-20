@@ -11,9 +11,16 @@ module.exports = {
       lg: '976px',
       xl: '140px',
     },
+      colors: {
+        transparent: 'transparent',
+        blue: '#002F87',
+        yellow: '#FFDD00',
+        gray: '#F4F4F4'
+
+      },
+
     extend: {},
   },
-  // eslint-disable-next-line global-require,
   plugins: [require('daisyui'),
   ],
 

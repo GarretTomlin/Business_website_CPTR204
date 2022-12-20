@@ -5,7 +5,86 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../dist/output.css">
-    <title>Document</title>
+    <title>NCB Redesign</title>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      /* Create three equal columns that floats next to each other */
+      .column {
+        float: left;
+        width: 33.33%;
+        padding: 10px;
+        height: 50px; /* Should be removed. Only for demonstration */
+        color:white;
+      }
+
+      /* Clear floats after the columns */
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+      h5{
+        background-color: #FFD801;
+        color:white;
+        text-align:center;
+        font-size: 30px;
+      }
+      p{
+        font-size: 10px;
+      }
+      h1{
+        font-size:30px;
+        color:white;
+      }
+      table{
+        padding:10px;
+       margin-left:auto;
+       margin-right:auto;
+       width:1100px;
+        font-size:20px;
+        background-color: #FFD801;
+        border-radius:44px;
+        text-align:center;
+        color:white;
+      }
+      td{
+        border-right:2px solid black;
+        padding:10px;
+        border-radius:44px;
+      }
+      .cardone{
+        width:250px;
+        height:170px;
+      }
+      .cardtwo{
+        width:250px;
+        height:170px;
+      }
+      .cardthree{
+        width:250px;
+        height:250px;
+      }
+      .cardfour{
+        width:250px;
+        height:170px;
+      }
+      .adjust{
+        width: 700px;
+        height:600px;
+      }
+      .topinput{
+        background-color: #FFD801;
+      }
+      .input-bordered{
+        background-color:white;
+      }
+      .gotright{
+        float:right;
+      }
+      </style>
 </head>
 <body>
     <header>
@@ -17,10 +96,10 @@
                       <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
                     </label>
                     <ul tabindex="0" class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52">
-                      <li><a>Personal</a></li>
+                      <li><a>Card product</a></li>
                       <li tabindex="0">
                         <a class="justify-between">
-                          Business
+                          Card Resources
                           <svg class="fill-current" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z"/></svg>
                         </a>
                         <ul class="p-2">
@@ -38,10 +117,10 @@
                 </div>
                 <div class="navbar-center hidden lg:flex">
                   <ul class="menu menu-horizontal p-0">
-                    <li><a>Personal</a></li>
+                    <li><a>Card Product</a></li>
                     <li tabindex="0">
                       <a>
-                        Business
+                        Card Resources
                         <svg class="fill-current" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"/></svg>
                       </a>
                       <ul class="p-2">
@@ -49,19 +128,203 @@
                         <li><a>Submenu 2</a></li>
                       </ul>
                     </li>
-                    <li><a>About</a></li>
+                    <li><a>Application Checklist</a></li>
                   </ul>
                 </div>
                 <div class="navbar-end">
-                  <a class="btn btn-light">Get started</a>
+                  <a class="btn btn-light bg-yellow text-gray">Find card</a>
                 </div>
               </div>
         </nav>
-        
+
     </header>
+
+      </div>
+    </section>
+
+<section class="justify-between">
+  <div class="hero min-h-screen">
+    <div class="hero-content flex-col lg:flex-row-reverse">
+      <img src="../assets/images/3dcard.webp" class="ml-auto w-1/2 object-cover" />
+      <div>
+        <h1 class="text-5xl font-bold">YOUR NEW CREDIT CARD IS A CLICK AWAY</h1>
+        <div class="form-control">
+          <label class="label">
+          </label>
+          <label class="input-group">
+            <input type="text" placeholder="claim your card" class="input input-bordered text-gray" />
+            <span class="bg-yellow text-gray">FIND YOUR CARD</span>
+          </label>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+<section class="flex justify-center">
+  <div class="mx-auto">
+
+  <div class="stats shadow">
+
+    <div class="stat">
+      <div class="stat-value text-primary"><a href="./src/templates/creditcard.html"><img  class="bg-yellow border-3" src="../assets/images/creditcard.png" alt="" srcset=""></a></div>
+      <div class="stat-desc">Credit Card</div>
+    </div>
+
+
+    <div class="stat">
+      <div class="stat-value text-primary"><a href=""><img  class="bg-yellow border-3" src="../assets/images/mortgage.png" alt="" srcset=""></a></div>
+      <div class="stat-desc">Mortgage Rates</div>
+    </div>
+
+    <div class="stat">
+      <div class="stat-value text-primary"><a href=""><img  class="bg-yellow border-3" src="../assets/images/personal_loan.png" alt="" srcset=""></a></div>
+      <div class="stat-desc">Personal Loans</div>
+    </div>
+
+    <div class="stat">
+      <div class="stat-value text-primary"><a href=""><img  class="bg-yellow border-3" src="../assets/images/investing.png" alt="" srcset=""></a></div>
+      <div class="stat-desc">Investing Options</div>
+    </div>
+
+
+  </div>
+
+</section>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<table>
+  <tr>
+    <td>Personal Credit Card</td>
+    <td>Prepaid Card</td>
+    <td>Business Credit Card</td>
+  </tr>
+</table>
+   <br><br><br>
+   <!--Card Section-->
+   <ul class="menu menu-horizontal bg-base-100 rounded-box">
+    <li><a><div class="card card-compact w-79.9 bg-base-100 shadow-xl">
+      <figure><img src="../assets/images/card.png" alt="" class="cardone"/></figure>
+      <div class="card-body">
+        <h2 class="card-title"></h2>
+        <p>NCB VISA CLASSIC</p>
+        <br>
+        <p>CASH BACK</p>
+        <p>Yearly fee &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspJMD 4,300</p>
+        <p>Effective Annual &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp42% - 46.9%</p>
+        <p>Interest Rate</p>
+        <p>Min. Gross &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspJMD 50,000</p>
+        <p>Monthly Income</p>
+        <div class="card-actions justify-center">
+          <button class="btn btn-primary">Claim yours now!</button>
+        </div>
+      </div>
+    </div</a></li>
+    <li><a><div class="card card-compact w-79.9 bg-base-100 shadow-xl">
+      <figure><img src="../assets/images/card1.png" alt=""class="cardtwo"/></figure>
+      <div class="card-body">
+        <h2 class="card-title"></h2>
+        <p>NCB VISA PLATINUM</p>
+        <br>
+        <p>CASH BACK</p>
+        <p>Yearly fee &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspJMD 8,200</p>
+        <p>Effective Annual &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp41.99% - 46.9%</p>
+        <p>Interest Rate</p>
+        <p>Min. Gross &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspJMD 208,334</p>
+        <p>Monthly Income</p>
+        <div class="card-actions justify-center">
+          <button class="btn btn-primary">Claim yours now!</button>
+        </div>
+      </div>
+    </div></a></li>
+    <li><a><div class="card card-compact w-79.9 bg-base-100 shadow-xl">
+      <figure><img src="../assets/images/card2.png" alt="" class="cardthree"/></figure>
+      <div class="card-body">
+        <h2 class="card-title"></h2>
+        <p>INTERNATIONAL MASTER CARD</p>
+        <br>
+        <p>MORE DAYS TO PAY</p>
+        <p>Yearly fee &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspUSD 88.84</p>
+        <p>Effective Annual &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp18% - 21.9%</p>
+        <p>Interest Rate</p>
+        <p>Min. Gross &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspJMD 77,500</p>
+        <p>Monthly Income</p>
+        <div class="card-actions justify-center">
+          <button class="btn btn-primary">Claim yours now!</button>
+        </div>
+      </div>
+    </div></a></li>
+  </ul>
+  <li><a><div class="card card-compact w-80 bg-base-100 shadow-xl">
+    <figure><img src="../assets/images/ncb-debit.png" alt="" class="cardfour" /></figure>
+    <div class="card-body">
+      <h2 class="card-title"></h2>
+      <p>VISA CLASSIC</p>
+      <br>
+      <p>NCB MILES</p>
+      <p>Yearly fee &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspUSD 177.68</p>
+        <p>Effective Annual &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp17% - 21.9%</p>
+        <p>Interest Rate</p>
+        <p>Min. Gross &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspUSD 1,667</p>
+        <p>Monthly Income</p>
+      <div class="card-actions justify-center">
+        <button class="btn btn-primary">Claim yours now!</button>
+      </div>
+    </div>
+  </div></a></li>
+</ul>
+<br><br><br>
+<section class="mt-6">
+  <div class="flex flex-col w-full border-opacity-50">
+    <div class="grid h-20 card bg-blue rounded-box place-items-center">
+
+      <div class="form-control">
+        <label class="input-group">
+          <span class="bg-blue text-gray"><h1>Subcribe to our news letter</h1></span>
+          <input type="text" placeholder="Subcribe" class="input input-bordered bg-gray" />
+          <span class="bg-yellow">SUBSCRIBE</span>
+        </label>
+      </div>
+  </div>
+</section>
+<footer class="footer p-10 bg-base-300 text-base-content">
+  <div>
+    <span class="footer-title">Services</span>
+    <a class="link link-hover">Branding</a>
+    <a class="link link-hover">Design</a>
+    <a class="link link-hover">Marketing</a>
+    <a class="link link-hover">Advertisement</a>
+  </div>
+  <div>
+    <span class="footer-title">Company</span>
+    <a class="link link-hover">About us</a>
+    <a class="link link-hover">Contact</a>
+    <a class="link link-hover">Jobs</a>
+    <a class="link link-hover">Press kit</a>
+  </div>
+  <div>
+    <span class="footer-title">Legal</span>
+    <a class="link link-hover">Terms of use</a>
+    <a class="link link-hover">Privacy policy</a>
+    <a class="link link-hover">Cookie policy</a>
+  </div>
+</footer>
+<br>
+<footer class="footer px-10 py-4 border-t bg-base-200 text-base-content border-base-300">
+  <div class="flex items-center justify-center">
+    <img src="../assets/images/logo (3).svg" alt="" srcset="">
+    <br>
+    <p>NATIONAL COMMERCIAL BANK </p>
+  </div>
+  <div class="md:place-self-center md:justify-self-end">
+    <div class="grid grid-flow-col gap-4">
+      <a><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="fill-current"><path d="M24 4.557c-.883.392-1.832.656-2.828.775 1.017-.609 1.798-1.574 2.165-2.724-.951.564-2.005.974-3.127 1.195-.897-.957-2.178-1.555-3.594-1.555-3.179 0-5.515 2.966-4.797 6.045-4.091-.205-7.719-2.165-10.148-5.144-1.29 2.213-.669 5.108 1.523 6.574-.806-.026-1.566-.247-2.229-.616-.054 2.281 1.581 4.415 3.949 4.89-.693.188-1.452.232-2.224.084.626 1.956 2.444 3.379 4.6 3.419-2.07 1.623-4.678 2.348-7.29 2.04 2.179 1.397 4.768 2.212 7.548 2.212 9.142 0 14.307-7.721 13.995-14.646.962-.695 1.797-1.562 2.457-2.549z"></path></svg></a>
+      <a><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="fill-current"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"></path></svg></a>
+      <a><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="fill-current"><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"></path></svg></a>
+    </div>
+  </div>
+</footer>
 </body>
-<!--
-author: Kimberly Mason
-student ID: 
--->
 </html>
